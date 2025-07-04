@@ -124,6 +124,13 @@ body{
     
 }
 
+.apresentacao__conteudo__listas{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
 .rodape{
     background-color: var(--cor-terciaria);
     color: var(--cor-primaria);
